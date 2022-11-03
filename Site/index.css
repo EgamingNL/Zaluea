@@ -13,7 +13,7 @@
 }
 
 body {
-    background: rgb(22, 22, 22);
+    background: rgb(105, 105, 105);
     display: flex;
     flex-direction: column;
     margin: 0;
@@ -22,7 +22,7 @@ body {
 }
 
 .bar {
-    background-color: #272727;
+    background-color: #778899;
     height: 50px;
     position: fixed;
     top: 0;
@@ -42,7 +42,7 @@ body {
 }
 
 .page {
-    background-color: #272727;
+    background-color: #778899;
     height: 200px;
     width: 600px;
     top: 0;
@@ -51,7 +51,7 @@ body {
 }
 
 .bottom {
-    background-color: #272727;
+    background-color: #778899;
     margin-top: auto;
     height: 50px;
 }
@@ -210,7 +210,7 @@ form input:focus {
 }
 
 .settings {
-    background-color: #272727;
+    background-color: #778899;
     height: 50px;
     position: fixed;
     right: 100px;
@@ -220,7 +220,7 @@ form input:focus {
 }
 
 .updates {
-    background-color: #272727;
+    background-color: #778899;
     height: 50px;
     position: fixed;
     right: 455px;
