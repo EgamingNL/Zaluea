@@ -1,5 +1,5 @@
 var updates = [
-    {message: "V0.0.1"}
+    {message: "V0.0.5 | Niet echt iets nieuws ofzo..."}
 ];
 var updatespage = document.getElementById("updatespage");
 for(let item of updates) {
