@@ -1,5 +1,5 @@
 function settings() {
-    var settings = document.getElementById("settings")
+    var settings = document.getElementById("instellingen")
 
     if (settings.style.display == "none") {
         settings.style.display = "initial"
@@ -34,7 +34,7 @@ function titleSet(text) {
     
     else {
         localStorage.removeItem("title");
-        document.title = "Zaluea";
+        document.title = "Somtodays";
     }
 }
 
